@@ -9,6 +9,7 @@ First there is a switch for day/night mode.
 By default it will use the mode your phone is currently in (Untested pre android API 33, may not work in earlier versions). This was mostly for my personal pleasure in using my favorite color themes (material palenight/solarized light).
 
 The second addition is "Palette-O-Matic". //(horrible name by the way)
+
 This is a color palette generator using a very simple algorithm based on complementary colors in order to have a somewhat harmonous set of colors. The function is'nt very good in my opinion and if i had more time that's the first thing I would fix.
 We can either pick a color in the "light bulb" interface and create a palette from it, or create one randomy in the main menu and the Palette-O-Matic interface.
 On peut dans l'interface de la "lampe" aller au Palette-O-Matic et créer une palette a partir de la couleur qu'on a choisi, ou en créer de façon aléatoires a partir de l'accueil et du Palette-O-Matic.
