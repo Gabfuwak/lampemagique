@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LampeMagique</string>
+    <string name="less_color_red">-rouge</string>
+    <string name="less_color_green">-vert</string>
+    <string name="less_color_blue">-bleu</string>
+    <string name="more_color_red">+rouge</string>
+    <string name="more_color_green">+vert</string>
+    <string name="more_color_blue">+bleu</string>
+
+    <string name="red">Rouge</string>
+    <string name="blue">Bleu</string>
+    <string name="green">Vert</string>
+
+    <string name="dark_mode_switch">Mode nuit</string>
+
+    <string name="creator">Gabin MAURY</string>
+    <string name="version">v0.0.1</string>
+    <string name="init">Couleur initiale</string>
+
+    <string name="palette_button">Generer une palette a partir de cette couleur</string>
+    <string name="palette_title">Palette-O-Matic</string>
+    <string name="palette_reset">Generer une nouvelle palette</string>
+
+    <string name="return_menu">Menu</string>
+
+
+</resources>
